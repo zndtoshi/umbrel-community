@@ -1,0 +1,9 @@
+[
+  {
+    "id": "balancebridge",
+    "name": "BalanceBridge",
+    "category": "Bitcoin",
+    "path": "apps/balancebridge/umbrel"
+  }
+]
+
